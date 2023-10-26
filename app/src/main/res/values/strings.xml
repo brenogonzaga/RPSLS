@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JokenpoLagartoSpock</string>
+    <string name="buttonPedra">Botão Pedra</string>
+    <string name="buttonPapel">Botão Papel</string>
+    <string name="buttonTesoura">Botão Tesoura</string>
+    <string name="buttonLagarto">Botão Lagarto</string>
+    <string name="buttonSpock">Botão Spock</string>
+    <string name="imageViewP1">P1</string>
+    <string name="imageViewP2">P2</string>
+    <string name="imageViewVS">Versus</string>
+</resources>
